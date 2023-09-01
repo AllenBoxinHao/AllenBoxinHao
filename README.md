@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllenBoxinHao
-- 👀 I’m interested in Coding💻 Playing Basketball🏀 and many more...
-- 🌱 I’m currently learning to be a Full-Stack Developer
+- 🌱 I’m a Full-Stack Developer specialising in React.js and Node.js
+- 👀 I’m a big fan of Coding💻 Basketball🏀 Guitar🎸 and many more...
 - 📫 Please feel free to reach me at allen7hao@gmail.com
 
 Have a Nice Day!
